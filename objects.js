@@ -31,6 +31,42 @@ let cap = {
 
 // set / update 
 
+// console.log("cap : ", cap);
+
+// cap.age = 40;
+// cap.isAvenger = false;
+
+// cap.friends = ["Tony", "Bruce", "Bucky", "Peter"];
+// console.log("-------------------------------------------------");
+
+// console.log("cap : ", cap);
+
+
+// // DELETE
+// delete cap.address;
+// console.log("cap : ", cap);
+
+// for(let key in cap) {
+//     console.log(key,  " : ", cap[key]);
+// }
+
+let propkey = "name";
+let key2 = "address";
+console.log(propkey, " : ", cap[propkey]);
+console.log(key2, " : ", cap[key2]);
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
